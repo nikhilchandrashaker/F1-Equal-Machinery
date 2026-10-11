@@ -1,0 +1,268 @@
+{
+ "calendar": [
+  {
+   "round": 1,
+   "name": "Round 1: Balanced GP template",
+   "track_id": "TRK-01",
+   "length_km": 5.2,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.75,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 2,
+   "name": "Round 2: High-speed template",
+   "track_id": "TRK-02",
+   "length_km": 5.8,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.7,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 3,
+   "name": "Round 3: Technical template",
+   "track_id": "TRK-03",
+   "length_km": 4.4,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.65,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 4,
+   "name": "Round 4: Street template",
+   "track_id": "TRK-04",
+   "length_km": 3.4,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.6,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 5,
+   "name": "Round 5: Wet test template",
+   "track_id": "TRK-05",
+   "length_km": 5.0,
+   "laps": 50,
+   "baseline_wetness": 0.65,
+   "baseline_grip": 0.45,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 6,
+   "name": "Round 6: Balanced GP template",
+   "track_id": "TRK-01",
+   "length_km": 5.2,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.75,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 7,
+   "name": "Round 7: High-speed template",
+   "track_id": "TRK-02",
+   "length_km": 5.8,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.7,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 8,
+   "name": "Round 8: Technical template",
+   "track_id": "TRK-03",
+   "length_km": 4.4,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.65,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 9,
+   "name": "Round 9: Street template",
+   "track_id": "TRK-04",
+   "length_km": 3.4,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.6,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 10,
+   "name": "Round 10: Wet test template",
+   "track_id": "TRK-05",
+   "length_km": 5.0,
+   "laps": 50,
+   "baseline_wetness": 0.65,
+   "baseline_grip": 0.45,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 11,
+   "name": "Round 11: Balanced GP template",
+   "track_id": "TRK-01",
+   "length_km": 5.2,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.75,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 12,
+   "name": "Round 12: High-speed template",
+   "track_id": "TRK-02",
+   "length_km": 5.8,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.7,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 13,
+   "name": "Round 13: Technical template",
+   "track_id": "TRK-03",
+   "length_km": 4.4,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.65,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 14,
+   "name": "Round 14: Street template",
+   "track_id": "TRK-04",
+   "length_km": 3.4,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.6,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 15,
+   "name": "Round 15: Wet test template",
+   "track_id": "TRK-05",
+   "length_km": 5.0,
+   "laps": 50,
+   "baseline_wetness": 0.65,
+   "baseline_grip": 0.45,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 16,
+   "name": "Round 16: Balanced GP template",
+   "track_id": "TRK-01",
+   "length_km": 5.2,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.75,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 17,
+   "name": "Round 17: High-speed template",
+   "track_id": "TRK-02",
+   "length_km": 5.8,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.7,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 18,
+   "name": "Round 18: Technical template",
+   "track_id": "TRK-03",
+   "length_km": 4.4,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.65,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 19,
+   "name": "Round 19: Street template",
+   "track_id": "TRK-04",
+   "length_km": 3.4,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.6,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 20,
+   "name": "Round 20: Wet test template",
+   "track_id": "TRK-05",
+   "length_km": 5.0,
+   "laps": 50,
+   "baseline_wetness": 0.65,
+   "baseline_grip": 0.45,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 21,
+   "name": "Round 21: Balanced GP template",
+   "track_id": "TRK-01",
+   "length_km": 5.2,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.75,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 22,
+   "name": "Round 22: High-speed template",
+   "track_id": "TRK-02",
+   "length_km": 5.8,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.7,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 23,
+   "name": "Round 23: Technical template",
+   "track_id": "TRK-03",
+   "length_km": 4.4,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.65,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  },
+  {
+   "round": 24,
+   "name": "Round 24: Street template",
+   "track_id": "TRK-04",
+   "length_km": 3.4,
+   "laps": 50,
+   "baseline_wetness": 0.0,
+   "baseline_grip": 0.6,
+   "date": null,
+   "note": "Generic template circuit; dates intentionally unset."
+  }
+ ]
+}

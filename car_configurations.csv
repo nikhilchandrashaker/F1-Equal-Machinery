@@ -1,0 +1,2 @@
+﻿car_config_id,config_name,component_ids,assigned_to_all_drivers,spec_policy,caution
+EM-01,Equal Machinery Reference Car,AERO-FW;AERO-RW;AERO-FLOOR;AERO-DRAG;PU-ICE;PU-ERS;PU-BAT;PU-COOL;SUS-F;SUS-R;BRAKES;GEARBOX;DIFF;STEERING;MONOCOQUE;MASS;WEIGHT-DIST;TYRE-DRY;TYRE-WET;TYRE-WARM;TYRE-WEAR;FUEL;ELECTRONICS,True,"Every driver receives identical components, specs, baseline setup, and reliability settings.","Simulation abstraction, not the exact specification of any real F1 season."

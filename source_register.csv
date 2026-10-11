@@ -1,0 +1,6 @@
+﻿dataset_area,source_or_method,coverage_or_limit,recommended_handling
+Driver roster,Exact roster supplied by user in current conversation,Complete as supplied; duplicates consolidated,Review canonical name spellings if desired
+Driver ratings,"Modeled estimates informed by broad F1 history, not individually researched records",Provisional,Research race results and calibrate rubric before interpreting rankings
+Car components,Simulation design assumptions,Fictional standardized baseline,Tune to simulator physics
+Track templates,Generic authored templates,Not real circuit data,Replace with measured circuit data for actual tracks
+Simulation parameters,Illustrative defaults,Not empirically calibrated,Sensitivity-test parameters

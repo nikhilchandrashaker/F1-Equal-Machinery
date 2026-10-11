@@ -1,0 +1,6 @@
+﻿track_id,track_name,length_km,corner_count,longest_straight_km,slow_corner_share,medium_corner_share,fast_corner_share,baseline_grip_0_1,baseline_wetness_0_1,notes
+TRK-01,Balanced GP template,5.2,16,2.0,0.35,0.35,0.3,0.75,0.0,"Generic template, not measured data for a real circuit."
+TRK-02,High-speed template,5.8,15,2.8,0.2,0.5,0.3,0.7,0.0,"Generic template, not measured data for a real circuit."
+TRK-03,Technical template,4.4,19,1.0,0.5,0.2,0.3,0.65,0.0,"Generic template, not measured data for a real circuit."
+TRK-04,Street template,3.4,20,0.8,0.55,0.15,0.3,0.6,0.0,"Generic template, not measured data for a real circuit."
+TRK-05,Wet test template,5.0,16,1.7,0.35,0.3,0.35,0.45,0.65,"Generic template, not measured data for a real circuit."

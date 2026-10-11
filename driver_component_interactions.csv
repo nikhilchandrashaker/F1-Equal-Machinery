@@ -1,0 +1,9 @@
+﻿driver_attribute,interaction,suggested_simulation_use,calibration_note
+qualifying_pace_0_100,Single-lap pace,Influences qualifying lap time,Use a calibrated small multiplier.
+race_pace_0_100,Long-run pace,Influences average race lap time,Keep distinct from tire wear.
+consistency_0_100,Lap-time variance,Higher rating narrows random lap-time spread,Avoid boosting mean pace twice.
+wet_weather_0_100,Wet pace,Scales driver pace penalty in wet weather,Active when wetness > 0.
+racecraft_0_100,Overtaking/defending,Affects passing and defensive success,Car performance remains identical.
+tire_management_0_100,Tire degradation,Scales driver-induced degradation,Shared tire component stays the same.
+adaptability_0_100,Changing conditions,Affects adjustment to weather/track changes,Use gradual updates.
+error_avoidance_0_100,Driver errors,Higher rating reduces driver-induced incidents,Separate from mechanical failures.

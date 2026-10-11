@@ -1,0 +1,18 @@
+﻿parameter,value,unit_or_type,description
+simulation_version,EM-SIM-0.2,string,Starter dataset version.
+rating_scale_min,0,rating points,All ratings normalized to 0–100.
+rating_scale_max,100,rating points,All ratings normalized to 0–100.
+equal_machinery_enabled,True,boolean,Required for equal-machinery mode.
+car_config_id,EM-01,ID,Shared car for all drivers.
+setup_variation_enabled,False,boolean,Disable setup advantages for strict parity.
+fuel_effect_enabled,True,boolean,Fuel load may affect lap time.
+tire_degradation_enabled,True,boolean,Same tire model for every driver.
+mechanical_failures_enabled,True,boolean,Apply reliability values equally.
+failure_random_seed,20261010,integer,Fix for repeatable runs.
+weather_variation_enabled,True,boolean,Same weather applies to the field.
+safety_car_enabled,True,boolean,Optional event rule.
+qualifying_laps,1,laps,Default one-lap qualifying test.
+race_distance_laps,50,laps,Placeholder; configure per event.
+driver_rating_effect_strength,0.35,multiplier,Calibrate against intended pace spread.
+component_rating_effect_strength,0.0,multiplier,Zero keeps car performance equal.
+incident_rate_base,0.015,probability/lap,Illustrative; calibrate before serious use.

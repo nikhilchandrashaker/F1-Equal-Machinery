@@ -1,0 +1,9 @@
+﻿topic,details
+Roster,Built from the complete list supplied in the latest message.
+Deduplication,Repeated names were consolidated using accent-insensitive matching; distinct names were retained.
+Roster count,214 unique names after deduplication.
+Ratings,"Provisional modeled estimates, not official ratings or fully researched statistical measurements."
+Peak ability,"Ratings aim to represent peak career ability, not historical car advantage."
+Default ratings,Drivers without individual anchors receive a provisional baseline rating; research and calibration are still needed.
+Equal machinery,Every driver should use EM-01 and identical car specs; driver attributes are the intended differentiator.
+Physics,Component values are placeholders; validate units and formulas against your simulation engine.
