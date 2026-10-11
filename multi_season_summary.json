@@ -1,0 +1,66 @@
+{
+ "generated_for": "EM-SIM engine v2",
+ "base_seed": 20261010,
+ "seasons_per_config": 100,
+ "configs": {
+  "grid20_random": {
+   "seasons": 100,
+   "hit_rate": 0.71,
+   "dnf_pct": 8.33,
+   "mech_pct_of_starts": 4.1,
+   "incident_pct_of_starts": 4.23,
+   "safety_cars_per_race": 0.78,
+   "distinct_champions": 33,
+   "wet_winner_w_minus_r": -0.76,
+   "dry_winner_w_minus_r": -0.89,
+   "wet_races": 723
+  },
+  "grid20_top_rated": {
+   "seasons": 100,
+   "hit_rate": 0.18,
+   "dnf_pct": 5.03,
+   "mech_pct_of_starts": 4.23,
+   "incident_pct_of_starts": 0.8,
+   "safety_cars_per_race": 0.17,
+   "distinct_champions": 7,
+   "wet_winner_w_minus_r": -0.49,
+   "dry_winner_w_minus_r": -0.69,
+   "wet_races": 723
+  },
+  "all214": {
+   "seasons": 100,
+   "hit_rate": 0.14,
+   "dnf_pct": 8.47,
+   "mech_pct_of_starts": 4.22,
+   "incident_pct_of_starts": 4.26,
+   "safety_cars_per_race": 2.92,
+   "distinct_champions": 10,
+   "wet_winner_w_minus_r": -0.65,
+   "dry_winner_w_minus_r": -0.83,
+   "wet_races": 723,
+   "spearman_race_pace_vs_avg_points": 0.975
+  }
+ },
+ "variability_sweep": {
+  "1": 0.71,
+  "0.5": 0.82,
+  "1.8": 0.55
+ },
+ "ablation": {
+  "full": {
+   "hit_rate": 0.735,
+   "dnf_pct": 8.42,
+   "sc_per_race": 0.79
+  },
+  "no_safety_cars": {
+   "hit_rate": 0.775,
+   "dnf_pct": 8.47,
+   "sc_per_race": 0
+  },
+  "no_pit_stops": {
+   "hit_rate": 0.74,
+   "dnf_pct": 8.48,
+   "sc_per_race": 0
+  }
+ }
+}

@@ -1,59 +1,60 @@
 {
- "champion": "Jim Clark",
- "champion_points": 143,
- "field_size": 214,
+ "champion": "Max Verstappen",
+ "champion_points": 346,
+ "field_size": 20,
  "races": 24,
- "wins_leader": "Lewis Hamilton",
- "dnf_total": 380,
+ "most_wins": "Michael Schumacher",
+ "dnf_rate_pct": 7.29,
+ "safety_cars": 15,
  "top10": [
   {
-   "driver": "Jim Clark",
-   "points": 143,
-   "wins": 2
-  },
-  {
-   "driver": "Lewis Hamilton",
-   "points": 123,
-   "wins": 3
-  },
-  {
-   "driver": "Juan Manuel Fangio",
-   "points": 111,
-   "wins": 2
+   "driver": "Max Verstappen",
+   "points": 346,
+   "wins": 5
   },
   {
    "driver": "Michael Schumacher",
-   "points": 108,
+   "points": 311,
+   "wins": 7
+  },
+  {
+   "driver": "Nico Rosberg",
+   "points": 167,
+   "wins": 1
+  },
+  {
+   "driver": "René Arnoux",
+   "points": 165,
    "wins": 2
   },
   {
-   "driver": "Ayrton Senna",
-   "points": 101,
+   "driver": "Phil Hill",
+   "points": 152,
+   "wins": 2
+  },
+  {
+   "driver": "Carlos Sainz Jr.",
+   "points": 146,
    "wins": 1
   },
   {
-   "driver": "Alain Prost",
-   "points": 90,
+   "driver": "Clay Regazzoni",
+   "points": 137,
    "wins": 1
   },
   {
-   "driver": "Max Verstappen",
-   "points": 71,
+   "driver": "Raymond Sommer",
+   "points": 126,
+   "wins": 1
+  },
+  {
+   "driver": "Graham Hill",
+   "points": 110,
    "wins": 0
   },
   {
-   "driver": "Denny Hulme",
-   "points": 65,
-   "wins": 1
-  },
-  {
-   "driver": "Fernando Alonso",
-   "points": 64,
-   "wins": 1
-  },
-  {
-   "driver": "Jackie Stewart",
-   "points": 56,
+   "driver": "Nico Hülkenberg",
+   "points": 108,
    "wins": 1
   }
  ]
